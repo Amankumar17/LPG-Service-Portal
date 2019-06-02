@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/lib/protobuf-java-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AmanKumar/Downloads/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
